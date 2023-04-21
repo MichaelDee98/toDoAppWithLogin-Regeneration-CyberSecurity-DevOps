@@ -2,6 +2,8 @@ package gr.athtech.toDoAppWithLogin;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+//thi is a comment
+
 @SpringBootApplication
 public class ToDoAppWithLoginApplication {
 
